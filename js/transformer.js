@@ -1,6 +1,4 @@
-/**
- ** @author Ligang Wang, http://github.com/ligangwang/
- **/
+
 let TeleporterModeCompression = 0;
 let TeleporterModeSlice = 1;
 let TeleporterOut = 0;
