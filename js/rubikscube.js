@@ -1,6 +1,4 @@
-/**
- ** @author Ligang Wang, http://github.com/ligangwang/
- **/
+
 class Facet{
 	constructor(name, color, cubie, axis, position, faceletName){
 		this.name = name;
