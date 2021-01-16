@@ -1,6 +1,3 @@
-/**
- ** @author Ligang Wang, http://github.com/ligangwang/
- **/
 
 class CubeConfig {
 	constructor(){
