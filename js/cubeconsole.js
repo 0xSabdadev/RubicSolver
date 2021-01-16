@@ -1,6 +1,4 @@
-/**
- ** @author Ligang Wang, http://github.com/ligangwang/
- **/
+
 
 class CubeConsole{
 	constructor(initialState, parentControl){
